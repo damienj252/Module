@@ -1,3 +1,3 @@
 # Module
 
-            by Damien Joyce
+            by "Damien Joyce"
